@@ -1,10 +1,10 @@
 var React = require('react');
-var Info = require('./Info');
+var Home = require('./Home');
 
 class App extends React.Component {
     render() {
         return (
-            <Info />
+            <Home />
         )
     }
 }
